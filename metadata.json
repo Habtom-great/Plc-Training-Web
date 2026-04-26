@@ -1,0 +1,12 @@
+{
+  "name": "Simatic Academy: Automation Masterclass",
+  "description": "A comprehensive bilingual (English-Amharic) interactive learning platform for Siemens PLC systems and Industrial Automation.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "AI Tutoring",
+    "Technical Documentation",
+    "Bilingual Education"
+  ]
+}
